@@ -1,0 +1,81 @@
+.container {
+    padding: 80px 120px;
+  }
+
+/* Style for headings and paragraphs: */
+h2 {
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+  }
+  
+h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:x-large;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+
+/* Style for lists: */
+li {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-size:large;
+    padding: 5px;
+}
+
+ul {
+  list-style-type:circle;
+}
+
+/* image style */
+.person {
+    border: 10px solid transparent;
+    margin-bottom: 25px;
+    width: 50%;
+    height: 50%;
+    opacity: 0.7;
+}
+
+.person:hover {
+    border-color: #f1f1f1;
+}
+
+/* Add a dark background color with a little bit see-through */
+.navbar {
+    margin-bottom: 0;
+    background-color: #2d2d30;
+    border: 0;
+    font-size: 18px !important;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    letter-spacing: 4px;
+    opacity: 0.9;
+  }
+  
+  /* Add a gray color to all navbar links */
+  .navbar li a, .navbar .navbar-brand {
+    color: #d5d5d5 !important;
+  }
+  
+  /* On hover, the links will turn white */
+  .navbar-nav li a:hover {
+    color: #fff !important;
+  }
+  
+  /* The active link */
+  .navbar-nav li.active a {
+    color: #fff !important;
+    background-color:#29292c !important;
+  }
+
+/* Style for buttons: */
+.btn {
+  padding: 10px 10px;
+  border-radius: 10px;
+}
+
+.btn:hover {
+  background-color: crimson;
+}
+ 
