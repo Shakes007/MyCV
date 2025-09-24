@@ -1,7 +1,7 @@
 # MyCV
 
 ## Link to My Cv:
-https://shakes007.github.io/MyCV
+[https://shakes007.github.io/MyCV](https://shaakier.samsodien.itvarsitystudent.org/)
 
 ## What this page is about:
 * This is my personal website showcasing who I am.
